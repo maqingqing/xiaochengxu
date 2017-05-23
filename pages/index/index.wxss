@@ -1,0 +1,76 @@
+/**index.wxss**/
+.slide-image{ 
+    width: 100%;
+    height: 100%;
+}
+swiper{
+  width: 100vw;
+  height: 54vw;
+}
+.title1{
+  width: 50vw;
+  height: 14vw;
+   position: relative;
+   top:4rpx;
+}
+.langan{
+  width: 20rpx;
+  height: 40rpx;
+  background-color: red;
+}
+.whatF{
+  font-family:"微软雅黑" ;
+}
+.albums{
+  margin-left: 44rpx;
+  position: relative;
+  width: 376px;
+  height: 350px;
+}
+.zhezhao{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  margin-left: -7px;
+  z-index: 99;
+}
+.album{
+  float: left;
+  width:40vw;
+  height:40vw;
+  background-color: #fff;
+  margin-right: 40rpx;
+  margin-top: 17rpx;
+  position: relative;
+}
+.album1_img{
+  width: 37vw;
+  height: 37vw;
+  margin-top: 1vw;
+  margin-left: 1vw;
+  border:4rpx solid #FDE3B8;
+}
+.bottomL{
+  width: 37vw;
+  height: 37vw;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 1.6vw;
+  left: 1.6vw;
+  color: #fff;
+  text-align: center;
+  line-height: 37vw;
+  font-size: 28px;
+}
+.swiper1{
+  width: 90%;
+  height: 68%;
+  background:rgb(255, 255, 255);
+  margin-top: 18vh;
+  margin-left: 6vw;
+}
+.swiper_01{
+  width: 100%;
+  height: 100%;
+}

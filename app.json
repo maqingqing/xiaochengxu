@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "大门常开",
+        "iconPath": "pages/images/icon.png",
+        "selectedIconPath":"pages/images/address_01.png"
+      },
+      {
+        "pagePath": "pages/parents/parents",
+        "text": "是我呀",
+        "iconPath": "pages/images/x1.png",
+        "selectedIconPath": "pages/images/love_032.png"
+      }
+    ]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "debug":true
+}
